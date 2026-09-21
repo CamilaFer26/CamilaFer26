@@ -19,4 +19,4 @@
 ```
 [![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,c,html)](https://skillicons.dev)
 
-![GitHub contribution snake](https://raw.githubusercontent.com/CamilaFer26/CamilaFer26/output/github-contribution-grid-snake.svg)
+![GitHub contribution snake](https://raw.githubusercontent.com/CamilaFer26/CamilaFer26/gh-pages/github-contribution-grid-snake-dark.svg)
