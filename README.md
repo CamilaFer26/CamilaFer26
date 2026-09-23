@@ -17,6 +17,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡃⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-[![My Skills](https://skillicons.dev/icons?i=java,eclipse,androidstudio,c,html)](https://skillicons.dev)
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=java,eclipse,androidstudio,c,html,javascript,css" alt="My Skills" />
+</div>
 ![GitHub contribution snake](https://raw.githubusercontent.com/CamilaFer26/CamilaFer26/gh-pages/github-contribution-grid-snake-dark.svg)
