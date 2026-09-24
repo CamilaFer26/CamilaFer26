@@ -21,4 +21,6 @@
     <img src="https://skillicons.dev/icons?i=java,eclipse,androidstudio,c,html,javascript,css" alt="My Skills" />
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaFer26&layout=compact)
+
 ![GitHub contribution snake](https://raw.githubusercontent.com/CamilaFer26/CamilaFer26/gh-pages/github-contribution-grid-snake-dark.svg)
